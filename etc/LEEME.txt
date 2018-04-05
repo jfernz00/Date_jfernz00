@@ -1,0 +1,10 @@
+Javier Fernandez Zamora
+
+horas:30
+
+1º	Creo los ficheros, paquetes y configuro BUILD.XML
+
+2º	Empiezo a implementar Main y Date.
+
+3º	Metodos pedidos en las diapositivas.
+
